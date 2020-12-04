@@ -1,0 +1,80 @@
+body{
+    background-image: url(https://guestoria.com/wp-content/uploads/2017/02/off-white-textured-background-1920x10803.jpg);
+}
+
+#Header {
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:18px;
+    border:solid 8px black;
+    text-align: center;
+    background-color:#8e41d5;
+}
+
+h3{
+    color:#ffbc08;
+    font-size: 48px;
+    font-family: "Passion One";
+    margin-bottom:0px;
+}
+
+p{
+    color:white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+#Header h1{
+    font-size: 68px;
+    font-family: "Passion One";
+    color:#ffbc08;
+    font-weight:bold;
+}
+
+#LeftNav{
+    float: left;
+    width:488px;
+    border:solid 8px black;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: #8e41d5;
+}
+
+#LeftNav ul{
+    color: white;
+}
+
+a{
+    color:white;
+    font-weight:bold;
+    font-size:24px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Content{
+    width:700px;
+    margin-left:auto;
+    margin-left:auto;
+    margin-right: 18px;
+    border:solid 8px black;
+    text-align: center;
+    background-color:#8e41d5;
+    padding: 15px;
+}
+
+#Footer{
+    text-align:center;
+    border: solid 8px black;
+    background-color: #8e41d5;
+}
+
+#bow{
+    color: #ffbc08;
+    font-weight: bold;
+    font-size: 20px;
+}
